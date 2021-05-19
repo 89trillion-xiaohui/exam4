@@ -9,7 +9,7 @@ import (
 	"time"
 
 	model2 "test3/src/model"
-	pro "test3/src/proto"
+	pro "test3/src/proto2"
 
 	"github.com/go-redis/redis"
 	"github.com/golang/protobuf/proto"
